@@ -2,7 +2,7 @@
 
 Static file and directory handlers plugin for hapi.js.
 
-[![Build Status](https://secure.travis-ci.org/hapijs/inert.svg)](http://travis-ci.org/hapijs/inert)
+[![Build Status](https://secure.travis-ci.org/hapijs/inert.svg)](http://travis-ci.org/hapijs/inert) [![GuardRails Staging badge](https://badges.staging.guardrails.io/fictional-tribble/hapijs--inert.svg)](https://www.staging.guardrails.io)
 
 Lead Maintainer - [Gil Pedersen](https://github.com/kanongil)
 
